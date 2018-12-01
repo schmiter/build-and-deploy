@@ -12,13 +12,13 @@ class App extends Component {
                 <h3>ACM-W Vice President | UMN '21</h3>
                 <h4>Computer Science and Mathematics</h4>
                 <ul class="social-media">
-                  <li class="media-icon">Mail</li>
-                  <li class="media-icon">LinkedIn</li>
-                  <li class="media-icon">Github</li>
-                  <li class="media-icon">Twitter</li>
-                  <li class="media-icon">Codepen</li>
+                  <li class="media-icon">sarma013@umn.edu</li>
+                  <li class="media-icon"><a href="https://linkedin.com/in/ashmitasarma">LinkedIn</a></li>
+                  <li class="media-icon"><a href="https://github.com/schmiter">Github</a></li>
+                  <li class="media-icon"><a href="https://twitter.com/schmiter">Twitter</a></li>
+                  <li class="media-icon"><a href="https://codepen.io">Codepen</a></li>
                 </ul>
-            </div>'
+            </div>
         </header>
       </div>
     );
