@@ -7,22 +7,23 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <div id="content">
+                <h1 id="headerLogo">Ashmita Sarma</h1>
+                <h3>ACM-W Vice President | UMN '21</h3>
+                <h4>Computer Science and Mathematics</h4>
+                <ul class="social-media">
+                  <li class="media-icon">Mail</li>
+                  <li class="media-icon">LinkedIn</li>
+                  <li class="media-icon">Github</li>
+                  <li class="media-icon">Twitter</li>
+                  <li class="media-icon">Codepen</li>
+                </ul>
+            </div>'
         </header>
       </div>
     );
   }
 }
+
 
 export default App;
