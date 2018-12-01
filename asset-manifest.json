@@ -1,15 +1,15 @@
 {
-  "main.css": "/build-and-deploy/static/css/main.3a6f8780.chunk.css",
-  "main.js": "/build-and-deploy/static/js/main.671229be.chunk.js",
-  "main.js.map": "/build-and-deploy/static/js/main.671229be.chunk.js.map",
+  "main.css": "/build-and-deploy/static/css/main.64f3c0b9.chunk.css",
+  "main.js": "/build-and-deploy/static/js/main.bf0437d9.chunk.js",
+  "main.js.map": "/build-and-deploy/static/js/main.bf0437d9.chunk.js.map",
   "static/js/1.f68dcc1a.chunk.js": "/build-and-deploy/static/js/1.f68dcc1a.chunk.js",
   "static/js/1.f68dcc1a.chunk.js.map": "/build-and-deploy/static/js/1.f68dcc1a.chunk.js.map",
   "runtime~main.js": "/build-and-deploy/static/js/runtime~main.2b4bf65c.js",
   "runtime~main.js.map": "/build-and-deploy/static/js/runtime~main.2b4bf65c.js.map",
-  "static/css/main.3a6f8780.chunk.css.map": "/build-and-deploy/static/css/main.3a6f8780.chunk.css.map",
+  "static/css/main.64f3c0b9.chunk.css.map": "/build-and-deploy/static/css/main.64f3c0b9.chunk.css.map",
   "static/media/logo.svg": "/build-and-deploy/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/build-and-deploy/static/media/background.c89204cd.png",
   "index.html": "/build-and-deploy/index.html",
-  "precache-manifest.0de33fe0ad13e3bb806b1cf2109b6c44.js": "/build-and-deploy/precache-manifest.0de33fe0ad13e3bb806b1cf2109b6c44.js",
+  "precache-manifest.4e4b2f21c2dc44a340a7a9060c8b9247.js": "/build-and-deploy/precache-manifest.4e4b2f21c2dc44a340a7a9060c8b9247.js",
   "service-worker.js": "/build-and-deploy/service-worker.js"
 }
