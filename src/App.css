@@ -37,7 +37,7 @@ body {
 
 }
 
-header {
+.App-header {
   display: block;
   background-color: black;
   width: 100%;
