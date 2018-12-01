@@ -7,7 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <div id="content">
+        <style> @import url('https://fonts.googleapis.com/css?family-Monoton|Roboto');
+        </style>
+        <div id="content">
                 <h1 id="headerLogo">Ashmita Sarma</h1>
                 <h3>ACM-W Vice President | UMN '21</h3>
                 <h4>Computer Science and Mathematics</h4>
